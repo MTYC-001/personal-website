@@ -6,34 +6,19 @@ This is an web app that I have created using firebase for database and React for
 - Buttons:
   - Link [https://projectmanagementmarvin.web.app]
 
-## OpenAI Data Generator (video-to-text and text-to-images)
-In this project I've used JavaScript, Python and OpenAI's API to use ChatGPT to convert any youtube video to text this is useful when you do not want to spent 20-30 mins watching a youtube video, also I've also went ahead and created my own smaller version of midjourney (text-to-image) AI generator. 
-- Tags: JavaScript, Nodejs, OpenAI
-- Badges:
-  - [blue]
-- Buttons:
-  - Link [https://example.com]
-
-## Project 3
-Description
-- Tags: C++
+## E-commerce Store (haven't finish)
+In this project I've used React (JavaScript, tailwindCSS) to create an online store from scratch, in this project I've learned how to integrate payment gateway (Stripe) into my online store.
+- Tags: JavaScript, TailwindCSS
 - Badges:
   -  [blue]
 - Buttons:
   - Link [https://example.com]
 
-## Project 4
-Description
-- Tags: C#
+## Multi-Threading Bank Teller System
+This project is what I have created during university where it simulates a simple bank process, the program will have 1 thread that reads a txt file and produces 100 customers and there will be 4 teller threads that takes in the customers and serves them. After serving them they will then write into a txt file on which customer each teller has served
+- Tags: C 
 - Badges:
   -  [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://github.com/MTYC-001/Operating-System-MultiThreading-Simulation]
 
-## Project 5
-Description
-- Tags: C#
-- Badges:
-  -  [blue]
-- Buttons:
-  - Link [https://example.com]

@@ -99,7 +99,7 @@ export default function Projects({ color }) {
                 <Text color={`${color}.400`} fontWeight={800}>
                   03
                 </Text>
-                <Text fontWeight={800}>Projects & Tech Stack</Text>
+                <Text fontWeight={800}>Projects</Text>
             </HStack>
             <Divider orientation="horizontal" />
           </Stack>

@@ -1,5 +1,3 @@
 JavaScript, CSS
-Java
-C++
-C#
-JavaScript, Nodejs, OpenAI
+JavaScript, TailwindCSS
+C
